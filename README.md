@@ -27,7 +27,11 @@ fc: 1
 L: 3.8x10^9
 ```
 
-Plugging in these values, and relative to his current star map location, computer shows = 1 × 0.5 × 0.2 × 0.01 × 0.01 × 1 × 3.8 x 10^9 = 3.8 women and suggest "select blue marble with white swirls planet for best option and closest target"
+Plugging in these values, and relative to his current star map location, the computer shows 
+```
+= 1 × 0.5 × 0.2 × 0.01 × 0.01 × 1 × 3.8 x 10^9 = 3.8 women 
+and suggest "select blue marble with white swirls planet for best option and closest target"
+```
 
 The alien couldn't help but feel a sense of excitement and nervousness at this very low opportunity. He always dreamed of travelling to other planets, and now, thanks to the Datekection app and his warp drive capable ship, he was about to make a journey to Earth to meet his dream date. With a deep breath, the alien hit the warp 9 thrust button, and the spaceship shot forward at an incredible speed. The stars outside the window seemed to blur together as they accelerated through the vast expanse of space, heading towards the destination. As he drew closer to Earth, the alien marvelled at the beauty of the blue and green planet, hanging suspended in the blackness of space. He pressed the scan button to survey for sexy female lifeforms, he hoped for just 3 per the Datekection analysis. One minute later the results came back, 3,904,727,342. 
 
