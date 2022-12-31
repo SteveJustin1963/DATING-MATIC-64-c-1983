@@ -6,6 +6,7 @@ Lets pretend you are an alien in space and very lonely and you have drifted too 
 You the alien call up the the Drake dating program and the computer beeps back "It is inappropriate and disrespectful to use the Drake equation or extraterrestrial civilizations as a means of seeking a romantic partners. Such actions are not ethical and should be avoided." None the less you press override and this appears on your green screen.
 
 Datekection: the search for a romantic partner among extraterrestrial civilizations:
+```
 N = R* × fp × ne × fl × fi × fc × L
 
 N = The number of dazzlingly beautiful female alien dates 
@@ -24,6 +25,7 @@ fl: 0.01
 fi: 0.01
 fc: 1
 L: 3.8x10^9
+```
 
 Plugging in these values, and relative to his current star map location, computer shows = 1 × 0.5 × 0.2 × 0.01 × 0.01 × 1 × 3.8 x 10^9 = 3.8 women and suggest "select blue marble with white swirls planet for best option and closest target"
 
