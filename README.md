@@ -19,7 +19,7 @@ fc = The part of female civilizations that use makeup and sexy clothing to broad
 L = The length of time these females radiate their sexy existence
 
 R*: 1
-fp: 05
+fp: 0.5
 ne: 0.2
 fl: 0.01
 fi: 0.01
