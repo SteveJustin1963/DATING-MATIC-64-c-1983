@@ -1,6 +1,17 @@
 # tec-DATING
 a TEC-1 1960's style computer dating app
 
+## Computer dating in the 1960s 
+was a primitive version of modern online dating. It involved filling out questionnaires and waiting for a computer to process the answers and find matches. Despite its limitations, it was seen as a convenient way to find a compatible partner and became increasingly popular as technology and society evolved. Today, online dating platforms use sophisticated algorithms and matching systems to facilitate connections between people, but the basic concept of using computers to facilitate romantic connections has remained the same. Computer dating services were trying to establish themselves as credible and reputable matchmaking options, and they often emphasized the size and power of their computers as a way to build trust with potential customers. They also tried to present themselves as exclusive and selective in their matching process, implying that they only matched people with compatible personalities and backgrounds. These advertisements reflect the growing popularity of computer dating at the time, and the desire of these services to be seen as modern, sophisticated, and trustworthy. The computer dating services quickly evolved in the decades following their inception in the 1960s. The introduction of phones and photos allowed people to communicate and exchange more information about themselves, and the advent of the internet and early chat rooms in the 1980s provided even more opportunities for people to connect with potential partners. However, it seems that despite these advances, many of the same problems and challenges that people experienced with computer dating in the past still persist today. People can still misrepresent themselves in various ways, such as by lying about their age, weight, attractiveness, or height. Additionally, there are still instances of people behaving badly or making inappropriate requests while interacting with others online. These issues can be frustrating and can make the online dating experience less enjoyable for some people. However, despite these challenges, many people still find success and happiness through online dating.
+
+
+
+
+
+
+
+
+
 ## But I Digress
 Lets pretend you are an alien in space and very lonely and you have drifted too far from your home plant and you have decided to find a new date on another planet. Its occurs to you to use the Drake equation to improve your extraterrestrial chances. The Drake equation is a tool used to estimate the number of extraterrestrial civilizations that might exist in the Milky Way galaxy with which we might be able to communicate. It was developed by astronomer Frank Drake in the 1960s as a way to organize and quantify the factors that might influence the likelihood of the existence of such civilizations.
 
