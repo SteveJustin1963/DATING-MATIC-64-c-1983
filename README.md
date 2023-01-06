@@ -47,7 +47,7 @@ The alien couldn't help but feel a sense of excitement and nervousness at this v
 Why did the computer go on a dating website? Because it wanted to find a discrete relationship. It was tired of being connected to everything all the time and wanted to be discreet about its love life.
 
 ## code
-This program prompts the user to enter two names, and then asks ten questions to determine compatibility. The COMPATIBILITY function asks each question and increments the compatibility score if the answers match. The program then displays the compatibility score or "Perfect match!" on the six-segment display.
+This program prompts the user to enter two names by reading them from a paper tape reader, and then asks ten questions to determine compatibility. The COMPATIBILITY function asks each question and increments the compatibility score if the answers match. The program then displays the compatibility score or "Perfect match!" on the six-segment display using port 3.
 ```date.f```
 
 
