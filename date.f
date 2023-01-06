@@ -1,6 +1,6 @@
 : INPUT ( -- name1 name2 )
    BEGIN
-      KEY 
+      PAPER_TAPE_READER 8 C@
       OVER C@ '\r' = UNTIL
       SWAP C!
    REPEAT
@@ -31,7 +31,8 @@
 
 : OUTPUT ( result -- )
    BEGIN
-      SIX_DIGIT_DISPLAY C@ EMIT
+      3 C@
+      SIX_DIGIT_DISPLAY C!
       1+
    WHILE
 ;
