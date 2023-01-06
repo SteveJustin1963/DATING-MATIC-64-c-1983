@@ -6,12 +6,6 @@ was a primitive version of modern online dating. It involved filling out questio
 
 
 
-
-
-
-
-
-
 ## But I Digress
 Lets pretend you are an alien in space and very lonely and you have drifted too far from your home plant and you have decided to find a new date on another planet. Its occurs to you to use the Drake equation to improve your extraterrestrial chances. The Drake equation is a tool used to estimate the number of extraterrestrial civilizations that might exist in the Milky Way galaxy with which we might be able to communicate. It was developed by astronomer Frank Drake in the 1960s as a way to organize and quantify the factors that might influence the likelihood of the existence of such civilizations.
 
@@ -47,7 +41,16 @@ and suggests "select blue marble with white swirls planet for best option and cl
 
 The alien couldn't help but feel a sense of excitement and nervousness at this very low opportunity. He always dreamed of travelling to other planets, and now, thanks to the Datekection app and his warp drive capable ship, he was about to make a journey to Earth to meet his dream date. With a deep breath, the alien hit the warp 9 thrust button, and the spaceship shot forward at an incredible speed. The stars outside the window seemed to blur together as they accelerated through the vast expanse of space, heading towards the destination. As he drew closer to Earth, the alien marvelled at the beauty of the blue and green planet, hanging suspended in the blackness of space. He pressed the scan button to survey for sexy female lifeforms, he hoped for just 3 per the Datekection analysis. One minute later the results came back, 3,904,727,342. Five minutes later he landed the spaceship. He rub the cockpit window clear from his heavy breathing and not familiar with the writing on the adjacent build he slowly deciphered the letters SETI. He thought it had something to do with dating, like Sexy Extraterrestrial Intelligence, so he rushed out and just then the intergalactic space police slapped cuffs on him for violating the inappropriate and disrespectful use of the Drake equation. The staff inside the SETI building threw another party as their honey trap for aliens worked again. By the way SETI stands for Seduction of of Extraterrestrial Intelligence, the real SETI is over a block away.
 
- 
+## Seriously
+![image](https://user-images.githubusercontent.com/58069246/211028711-37603d83-15e8-4033-9434-8c6c407bb58e.png)
+
+Why did the computer go on a dating website? Because it wanted to find a discrete relationship. It was tired of being connected to everything all the time and wanted to be discreet about its love life.
+
+## code
+This program prompts the user to enter two names, and then asks ten questions to determine compatibility. The COMPATIBILITY function asks each question and increments the compatibility score if the answers match. The program then displays the compatibility score or "Perfect match!" on the six-segment display.
+```date.f```
+
+
 
 ## Ref
 - https://www.theatlantic.com/technology/archive/2011/02/old-weird-tech-computer-dating-of-the-1960s/71217/
