@@ -36,7 +36,7 @@ The robot voice squawks again; "do you wish to proceed?". without hesitating you
 ## Seriously
 ![image](https://user-images.githubusercontent.com/58069246/211028711-37603d83-15e8-4033-9434-8c6c407bb58e.png)
 
-Why did the computer go on a dating website? Because it wanted to find a discrete relationship. It was tired of being connected to everything all the time and wanted to be discreet about its love life.
+Why did the computer use a software driven dating service? Because he was sick of being hit on all the time, rather he a discrete binary relationships that was the right way to be discreet in finding love.
 
 ## code
 This program prompts the user to enter two names by reading them from a paper tape reader, and then asks ten questions to determine compatibility. The COMPATIBILITY function asks each question and increments the compatibility score if the answers match. The program then displays the compatibility score or "Perfect match!" on the six-segment display using port 3.
