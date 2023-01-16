@@ -9,9 +9,7 @@ was a primitive version of modern online dating. It involved filling out questio
 ## But I Digress
 Lets pretend you are an alien in space and very lonely and you have drifted too far from your home plant and you have decided to find a new date on another planet. Its occurs to you to use the Drake equation to improve your extraterrestrial chances. The Drake equation is a tool used to estimate the number of extraterrestrial civilizations that might exist in the Milky Way galaxy with which we might be able to communicate. It was developed by astronomer Frank Drake in the 1960s as a way to organize and quantify the factors that might influence the likelihood of the existence of such civilizations.
 
-You the alien call up the the Drake dating program and the computer beeps back "It is inappropriate and disrespectful to use the Drake equation or extraterrestrial civilizations as a means of seeking a romantic partners. Such actions are not ethical and should be avoided." None the less you press override and this appears on your green screen.
-
-Datekection: the search for a romantic partner among extraterrestrial civilizations:
+You the alien call up the the Drake dating program and the computer beeps back "It is inappropriate and disrespectful to use the Drake equation or extraterrestrial civilizations as a means of seeking a romantic partners. Such actions are not ethical and should be avoided." None the less you press override and this appears on your green screen with a robotic voice says; "Datekection: the search for a romantic partner among extraterrestrial civilizations has been calculated"
 ```
 N = R* × fp × ne × fl × fi × fc × L
 
