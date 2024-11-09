@@ -3,12 +3,12 @@
 ## *"When archaeologists found a 1983 computer running '60s matchmaking logic, they didn't expect it to solve their clone-dating crisis"*
 
 ### Developer's Note Found in Code Comments:
-```
+```⊤
 // DATING-MATIC 64 (c) 1983
-// "Because even a 2MHz Z80 processes love faster than your heart" 
+// "Because even a 4MHz Z80 processor loves faster than your heart" 
 // Memory: 2K (just like your last relationship)
 // Input: Paper tape (still more reliable than your ex)
-// WARNING: Y2K compliant, Y3K status unknown
+// WARNING: Y2K immune, Y3K status unknown
 ```
 
 ### As Featured in "Quantum Archaeological Review 3003":
