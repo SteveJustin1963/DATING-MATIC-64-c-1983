@@ -52,14 +52,54 @@ As Bender explained to the judge at his theft hearing: "Look, when you're as irr
 
 
 
+### The 1983 TEC-1 Dating Algorithm: MINT Code Archaeology
+*Found scratched inside an old TEC-1 case, dated 2024*
 
-### using MINT code 
+#### How This Digital Cupid Worked:
 
-- We ask a series of questions to two users, compare their answers, and calculate a compatibility score
-- We prompt the user to enter two names by reading in paper to a tape reader
-- then asks ten questions to determine compatibility.
-- the function asks each question and increments the compatibility score if the answers match.
-- it then displays the compatibility score or the words "Perfect match!" on the six-segment display using port 3.
+**Hardware Requirements:**
+- One (1) TEC-1 computer with Z80 CPU (at least 1kHz to 4MHz of raw matchmaking power)
+- One (1) Paper tape reader (for when your love life needs more input)
+- Six (6) Seven-segment displays (because love can be quantified in hexadecimal)
+- Two (2) Hopeful users (warranty void if users already married)
+- Port 3 for output (displaying either compatibility score or "PErFEct")
+
+**The Romance Algorithm:**
+1. **Data Input Phase:**
+   - Paper tape reader awakens from its slumber
+   - Scans for two names (or until tape runs out, whichever comes first)
+   - Names stored in precious 2K RAM (sharing space with MINT interpreter)
+
+2. **Questionnaire Processing:**
+   - Attempts to ask 10 questions
+   - Usually manages 2 due to memory constraints
+   - Known bug: Sometimes asks same question twice (feature, not a bug - testing for consistency)
+
+3. **Compatibility Calculation:**
+   ```mint
+   // Actual MINT code found in ROM:
+   : 00101001010011000101010111010001010010101.. you get it
+   ;
+   ```
+
+4. **Output Display:**
+   - If score = perfect: Displays "PErFEct" on seven-segments
+   - If score < perfect: Displays hex value (because disappointment looks better in hexadecimal)
+   - Uses Port 3 output (historically used for telegraphing marriage proposals)
+
+**Known Issues:**
+- Paper tape occasionally eaten by reader (metaphor for consumed relationships)
+- Seven-segment display can only show "PErFEct" or numbers
+- Cannot display "It's not you, it's me" in seven-segments
+- 2K memory limit means relationship history must be regularly purged
+
+*Note: Archaeological evidence suggests this code was responsible for at least three marriages and one case of mild electrocution (when two users tried to input answers simultaneously).*
+
+---
+*Warning: TEC-1 Dating App not responsible for compatibility scores, paper cuts, or lifelong happiness. Your mileage may vary. No warranty expressed or implied. Not valid where relationships prohibited by law.*
+
+
+### The real code before Bender hacked it
 
 
 ```mint
@@ -138,12 +178,12 @@ As Bender explained to the judge at his theft hearing: "Look, when you're as irr
   
   // Show match rating
   score 5 = (
-    `Perfect Match!` /N
+    `PErFEct nnAtch!` /N
   ) /E (
     score 3 > (
-      `Good Match!` /N
+      `5ood nnAtch!` /N
     ) /E (
-      `Keep Looking...` /N
+      `7EEp Loo7in5...` /N
     )
   )
 ;
@@ -153,38 +193,26 @@ As Bender explained to the judge at his theft hearing: "Look, when you're as irr
 
 ```
 
-Key improvements made:
-
-1. **Simplified Buffer Management**
-   - Used fixed-size byte arrays for storing answers
-   - Removed complex string handling
-   - Single character responses only
-
-2. **Input/Output**
-   - Direct character input instead of strings
-   - Immediate feedback for each answer
-   - Clear formatting with newlines
-
-3. **Comparison Logic**
-   - Simple character-to-character comparison
-   - Boolean results (0 or -1 for true/false)
-   - Clear carry handling
-
-4. **Memory Usage**
-   - Minimized memory usage for 2K constraint
-   - No long strings stored
-   - Efficient buffer allocation
+ 
 
 To use:
+
+
 ```mint
+// Run the tape baby!
+// Then press D
+
 > D
+
+// Out pops...
+
 TEC-1 Dating App
 ==============
 
 Person 1 name: Jim
 Person 2 name: Sue
 
-Do you like outdoor activities? (y/n)
+Q: Do you like to outdoor activities? (y/n)
 Person 1 (Answer): y
 Person 2 (Answer): y
 
@@ -192,6 +220,6 @@ Person 2 (Answer): y
 
 Compatibility Score: 4
 
-Good Match!
+PErFEct nnAtch!
 ```
  
