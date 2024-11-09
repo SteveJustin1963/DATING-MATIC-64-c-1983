@@ -21,7 +21,37 @@
  
 ![image](https://user-images.githubusercontent.com/58069246/211028711-37603d83-15e8-4033-9434-8c6c407bb58e.png)
 
-"Why did Bender use a software dating service? .... Because he was sick of being hit on all the time and he wanted a `discrete binary` relationship that was `discreet` at finding love."
+# "Bender's Bit-Mapped Love Life: How a Kleptomaniac Robot Found Romance Through Obsolete Tech"
+
+## Ancient Dating Hardware Meets Futurama's Most Eligible Bachelor
+
+*When a certain larcenous robot "liberated" a TEC-1 computer from the Museum of Ancient Computational Romance, he wasn't just stealing hardware - he was stealing hearts, one paper tape at a time.*
+
+### "Kiss My Shiny Metal ASCII"
+Found scrawled in the TEC-1's memory dump:
+```
+// PROPERTY OF BENDER B. RODRIGUEZ
+// Because sometimes you need 99.9% less storage space to find 100% of love
+// Seeking: Compatible unit who appreciates both kinds of binary - 
+// the kind that makes computers work AND the kind that comes in bottles
+```
+
+### Why Would a Robot Use a 1980s Dating App?
+As Bender explained to the judge at his theft hearing: "Look, when you're as irresistible as me, baby, sometimes you need a matchmaker that can't be hacked, bribed, or smooth-talked. This baby runs on such primitive tech, it's basically a digital speakeasy for romance. Plus, have you seen how much RAM modern dating apps use? This thing runs on 2K - just like my attention span! Besides it found my perfect match, a discrete binary who is discreet."
+
+### From the Court Transcripts:
+*"Your Honor, I chose this specific machine because:*
+1. *It's discrete - just like my totally legal business ventures*
+2. *It's discreet - perfect for a robot of my celebrity status*
+3. *It can't connect to the internet - no more exes finding my dating profile*
+4. *Its memory is smaller than my bar tab - no blackmail material*
+5. *And most importantly... it was poorly guarded at the museum"*
+
+---
+*Note: The TEC-1 was eventually returned to the museum, but not before Bender met his perfect match: a vintage calculator who could display "80085" without giggling. They now run a small bistro specializing in binary cocktails and artisanal magnets.*
+
+
+
 
 ### using MINT code 
 
