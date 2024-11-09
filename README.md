@@ -1,5 +1,22 @@
-# tec-DATING
-a TEC-1 1960's style computer dating app
+# "Love in 1024 Bytes: Ancient TEC-1 Dating Algorithm Discovered Still Matching Post-Humans in 3003"
+
+## *"When archaeologists found a 1983 computer running '60s matchmaking logic, they didn't expect it to solve their clone-dating crisis"*
+
+### Developer's Note Found in Code Comments:
+```
+// DATING-MATIC 64 (c) 1983
+// "Because even a 2MHz Z80 processes love faster than your heart" 
+// Memory: 2K (just like your last relationship)
+// Input: Paper tape (still more reliable than your ex)
+// WARNING: Y2K compliant, Y3K status unknown
+```
+
+### As Featured in "Quantum Archaeological Review 3003":
+*"In an era of neural-linked quantum matchmaking, this primitive silicon romance engine asks the eternal questions that still matter: 'Do you like cats?' and 'Can you handle spicy food?' Turns out, love hasn't changed much in 1,020 years - it just had fewer bits to work with."*
+
+---
+*Historical Note: This program was found still running on a TEC-1 microcomputer powered by a mysteriously infinite loop of GOTO statements and what appears to be sheer determination. The preservation society notes it has successfully matched 2,847,921 couples across a millennium, with a higher success rate than Modern Quantum Tinder™.*
+
 
  
 ![image](https://user-images.githubusercontent.com/58069246/211028711-37603d83-15e8-4033-9434-8c6c407bb58e.png)
