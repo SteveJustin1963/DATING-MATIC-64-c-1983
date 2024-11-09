@@ -37,7 +37,7 @@ Found scrawled in the TEC-1's memory dump:
 ```
 
 ### Why Would a Robot Use a 1980s Dating App?
-As Bender explained to the judge at his theft hearing: "Look, when you're as irresistible as me, baby, sometimes you need a matchmaker that can't be hacked, bribed, or smooth-talked. This baby runs on such primitive tech, it's basically a digital speakeasy for romance. Plus, have you seen how much RAM modern dating apps use? This thing runs on 2K - just like my attention span! Besides it found my perfect match, a discrete binary who is discreet."
+As Bender explained to the judge at his theft hearing: "Look, when you're as irresistible as me, baby, sometimes you need a matchmaker that can't be hacked, bribed, or smooth-talked. This baby runs on such primitive tech, it's basically a digital speakeasy for romance. Plus, have you seen how much RAM modern dating apps use? This thing runs on 2K - just like my attention span! Besides it found my perfect match, a discrete binary who is sweet discreet."
 
 ### From the Court Transcripts:
 *"Your Honor, I chose this specific machine because:*
