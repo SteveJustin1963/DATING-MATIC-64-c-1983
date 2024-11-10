@@ -15,7 +15,7 @@
 *"In an era of neural-linked quantum matchmaking, this primitive silicon romance engine asks the eternal questions that still matter: 'Do you like cats?' and 'Can you handle spicy food?' Turns out, love hasn't changed much in 1,020 years - it just had fewer bits to work with."*
 
 ---
-*Historical Note: This program was found still running on a TEC-1 microcomputer powered by a mysteriously infinite loop `/U` and what appears to be sheer determination. The preservation society notes it has successfully matched 2,847,921 couples across a millennium, with a higher success rate than Modern Quantum Tinder™.*
+*Historical Note: This program was found still running on a dilithium crystal powered TEC-1 microcomputer powered by a mysteriously infinite loop `/U` and what appears to be sheer determination. The preservation society notes it has successfully matched 2,847,921 couples across a millennium, with a higher success rate than Modern Quantum Tinder™.*
 
 
  
